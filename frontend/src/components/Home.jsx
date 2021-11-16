@@ -6,7 +6,7 @@ const Home = () => {
                     <div className="container">
 
             <h1> About</h1>
-            <h3>These simple CRUD applications with Django and Django rest framework and react js</h3>
+            <h3>These simple CRUD applications with Django and Django rest framework and react js and  build  Docker images from a Dockerfile </h3>
             <h2>Marwen Weslati</h2>
             <h3> Python and Django Full Stack Developer </h3>
 
